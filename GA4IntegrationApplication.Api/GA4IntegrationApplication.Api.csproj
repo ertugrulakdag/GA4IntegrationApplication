@@ -9,6 +9,9 @@
 
   <ItemGroup>
 	  <PackageReference Include="Google.Analytics.Data.V1Beta" Version="2.0.0-beta04" />
+	  <PackageReference Include="Hangfire" Version="1.8.11" />
+	  <PackageReference Include="Hangfire.Dashboard.Basic.Authentication" Version="7.0.1" />
+	  <PackageReference Include="Hangfire.MemoryStorage.Core" Version="1.4.0" />
 	  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
