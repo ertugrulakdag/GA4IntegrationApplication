@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "XXX",
-  "private_key_id": "d8XXX07",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMXXXKU\n-----END PRIVATE KEY-----\n",
-  "client_email": "XXX@XXX.iam.gserviceaccount.com",
-  "client_id": "10XXX29",
+  "project_id": "uretimsistemi-com",
+  "private_key_id": "d8b21e7546d00577bf6c2ad0453fcb4577b32207",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtPLdW7zxCvgTL\nRtsrvp/9vZ0rmuXMmRU1AwNkqrKeVQtqEpC+cYwbAzR1zun7TRCJfIlhklWNLvok\n7CP6m7MOn0DQ1DyX/enujVRNspPHoNRZduC1gAuiYJ7QUh5MNZIizgU8F1HCmF64\n7XHk//YE3MIZdojmaLI8un/1WJJeYAWV8QKkoVTIiid9re7b/x+sjfgS1ymf2gt/\n2Jqsx2XzDBen0RFfi7yuufsutQNwq9rFMX5eyxRJRdhdxxy+qwS1pMcQXb76akyz\nmgAVct1EjMqj3iN0KrOFbFVBs8YLTVat/qjzKidwtlWq389rsa/syYK6hYoou5ex\n5SD8YxFzAgMBAAECggEAAhlMN1dqqXxX3oabPSpwEcjsUIzt386y/RNuRRf0Vgq9\nuqlC66vAgMtHJW4+U3cZjjDeETqOoslA6pWZ0f106+ZuCJmpqkW/Qc6giNhzBeYi\n7HqOOmS0v2DgS7HTACVeAeHxGktGCE+ERkVKLfYT6vcputk+y1vVXPr9deF+1Hnc\nM/MFzKJWEqA6xt5Rx9LV4vl2cVhPqtCE1wEIqQ4eyi7BgpCYTJt4Kfk8Onx5iFYb\nTgehKRrasMIrHfuV4+//wLQ41gU3z06c9lkwWUqmiK2CijIRNUmKAx10TkxvluJC\n69k/cICB4HZQqoj5Vxee9XdnteDk3MhBuI9+plJKwQKBgQDtGORHGyteTJq85yXZ\nLmgEpsp+S5lPSeF2446QExRgmYTBLvvKYP0GSLndp0W8PQ1QMAzfRsa4bYZLUQe1\n1RhrYF761Qxvgr4IbjdesmnZSj9YL4qiaFP19T/jQX7CBDZaNjiEMLsbmrCAGm0X\n4HhDhilu9HXa2YKayum9MqgycQKBgQC7DHP8xq0w2qDwXCSSFdroJEfa418O2XUl\nNSf5KT8AF+bfZXRF9j/LNnnsnHzQSk4NcLshHSvCgyD2G/9IHTH5L+FaBH02y12C\ngpiSZpUAU0abLI27SiWi6fpVtSq8Bn45DAglfCntN1TJCcsZiZ/vmM4gQazJNRF9\nmyTp+STsIwKBgDQFERjUyjgfYJfvsysqdmIG4kjBd3qhABngpYfQ19i19h2YnF/z\n1bAKRtVt/OvnDUO5tylJ0xHl3eAqgCGSBpCQjWZFVjwlGGKrI/Tf+j9Vff5wN9+Y\nOkutqn3HAfO5jt9OJCpEstjEoNMKeUMS2fAewHp6ol0I+hHSUWRUd/jRAoGBAJPr\nRjJJH5851foetCD+vY3FWzmjg4HnwDc7cTAeSR8Wx9I0lh3ZnhtjKkpOennxuQXx\n91o5imiZcFCQVXI+/E0WazzXvfm+G2XhRyzHiN+n+3ctZawN9/N82yY6TeBBtkIA\n3NRf+3wHvLn7T60TY/KDQcbKiQzZNcrCDRAmoedHAoGBAKKgaB6d0jF93Zn1kx6l\n5QD1ZCoKuhYTgFf1W2rGAjxPMNcDbb8FshJmWt3izt317D2h51JqlAvfH9S4k673\nOIgpDZPu0yFfH0mYkqHTN2nIAok9+4QtEv1n2oPXdzQRQQ+wcS/bEcXbLCAT2lcy\nPSfyNo5AEIoDD+2hrCsnm9KU\n-----END PRIVATE KEY-----\n",
+  "client_email": "uretim-sistemi-api-v2@uretimsistemi-com.iam.gserviceaccount.com",
+  "client_id": "107100069016741677829",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/XXX",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uretim-sistemi-api-v2%40uretimsistemi-com.iam.gserviceaccount.com",
   "universe_domain": "googleapis.com"
 }
